@@ -12,7 +12,7 @@ about_Me = {
 	"tools": ["Git", "Visual Studio Code", "PyCharm"],
 	"funFact": "I speak fluent sarcasm and my code sometimes speaks in tongues",
 	"hobbies": ["Scuba diving 🤿 ", "Swimming", "Gaming", "Debugging", 
-		"Pretending to understand quantum computing", "Watching an unhealthy amount of isekai anime"],
+		"Watching an unhealthy amount of isekai anime"],
 	"motto": "Eat, sleep, code, repeat. Sometimes forget to eat and sleep.",
 };
 </pre>
