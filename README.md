@@ -1,3 +1,5 @@
+[<img src=>](https://www.linkedin.com/in/ryan-cheong-807b90265/)
+
 ## <p align="center">(Obligatory) Hello, World! <img src="https://i.imgur.com/NKfNftS.gif" width="30"> </p>
 ### Thanks for surfin' over! 🌊 <br>
 I'm Ryan, a self-proclaimed coding wizard 🧙‍♂️✨ on an important quest to transform coffee ☕ and late nights 🌒 into code!<br>
