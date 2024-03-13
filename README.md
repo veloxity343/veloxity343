@@ -1,16 +1,16 @@
-## (Obligatory) Hello, World! <img src="https://i.imgur.com/NKfNftS.gif" width="30"> <br>
+## <p align="center">(Obligatory) Hello, World! <img src="https://i.imgur.com/NKfNftS.gif" width="30"> </p>
 ### Thanks for surfing over! 🌊 <br>
 I'm Ryan, a self-proclaimed coding wizard 🧙‍♂️ on an important quest to transform coffee ☕ and late nights into code!<br>
 This is the place where I open-source stuff and try my utmost not to break anything important.<br>
 <br>
-Here's what you might want to know about me:<br>
+Some stuff you might want to know:<br>
 
 <pre>
 about_Me = {
 	"pronouns": "he" || "him" || "apache helicopter 🚁 ",
 	"code": ["C", "Python"],
 	"tools": ["Git", "Visual Studio Code", "PyCharm"],
-	"funFact": "I speak fluent sarcasm and my code sometimes speaks in tongues",
+	"funFact": "I speak fluent sarcasm but my code sometimes speaks in tongues",
 	"hobbies": ["Scuba diving 🤿 ", "Swimming", "Gaming", "Debugging", 
 		"Watching an unhealthy amount of isekai anime"],
 	"motto": "Eat, sleep, code, repeat. Sometimes forget to eat and sleep.",
@@ -26,5 +26,5 @@ about_Me = {
 ### 💬 Let's Quest Together<br>
 - When I'm not tangled in code, I'm probably lost in a good book 📚 ...or just lost, really<br>
 - Looking for fellow adventurers to tackle the quest of creating the ultimate "404 Not Found" page. Spoiler: It'll be legendary! 🏰<br>
-<br>
-Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉<br>
+<hr>
+<p align="center">Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉</p>
