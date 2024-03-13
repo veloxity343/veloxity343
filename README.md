@@ -1,5 +1,5 @@
 ## (Obligatory) Hello, World! <img src="https://i.imgur.com/NKfNftS.gif" width="30"> <br>
-#### Thanks for surfing over! 🌊 <br>
+### Thanks for surfing over! 🌊 <br>
 I'm Ryan, a self-proclaimed coding wizard 🧙‍♂️ on an important quest to transform coffee ☕ and late nights into code!<br>
 This is the place where I open-source stuff and try my utmost not to break anything important.<br>
 <br>
