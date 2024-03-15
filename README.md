@@ -35,7 +35,7 @@ about_Me = {
 <thead>
 <tr>
 <th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;"></a></th>
-<th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="max-width: 100%;"></a></th>
+<th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="max-width: 150%;"></a></th>
 </tr>
 </thead>
 </table>
