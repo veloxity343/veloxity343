@@ -1,6 +1,6 @@
-<p dir="auto"><a href="https://www.linkedin.com/in/ryan-cheong-807b90265/" rel="nofollow"><img src="/gifs/intro.gif?raw=true" alt="Banner gif of xenia coral, the text &quot;Ryan Cheong&quot; in the center, hyperlinked to LinkedIn URL" width="1000"></a></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/ryan-cheong-807b90265/" rel="nofollow"><img src="/img/intro.gif?raw=true" alt="Banner gif of xenia coral, the text &quot;Ryan Cheong&quot; in the center, hyperlinked to LinkedIn URL" width="1000"></a></p>
 
-## <p align="center">(Obligatory) Hello, World! <img src="/gifs/wave.gif?raw=true" width="30px"> </p>
+## <p align="center">(Obligatory) Hello, World! <img src="/img/wave.gif?raw=true" width="30px"> </p>
 ### Thanks for surfin' over! 🌊 <br>
 I'm Ryan, a self-proclaimed coding wizard 🧙‍♂️✨ on an important quest to transform coffee ☕ and late nights 🌒 into code!<br>
 What you see here is the place where I open-source some cool stuff while trying my utmost not to break anything important.<br>
@@ -28,6 +28,9 @@ about_Me = {
 ### 💬 Let's Quest Together<br>
 - When I'm not tangled in code, I'm probably lost in a good book 📚 ...or just lost, really<br>
 - Looking for fellow adventurers to tackle the quest of creating the ultimate "404 Not Found" page. Spoiler: It'll be legendary! 🏰<br>
+- Check me out on any of these social networks:
+<a href="https://discordapp.com/users/247156811109629954/" rel="nofollow"><img align="left" alt="“Ryan’s Discord" width="22px" src="/img/discord.png?raw=true" style="max-width: 100%;">
+</a>
 <hr>
 <table>
 <thead>
