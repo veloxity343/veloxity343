@@ -4,8 +4,7 @@
 	</a>
 </p>
 
-## <p align="center">
-(Obligatory) Hello, World! <img src="/img/wave.gif?raw=true" width="30px">
+## <p align="center">(Obligatory) Hello, World! <img src="/img/wave.gif?raw=true" width="30px">
 </p>
 ### Thanks for surfin' over! 🌊
 <br>
