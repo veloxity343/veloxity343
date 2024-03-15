@@ -1,4 +1,4 @@
-[<img src="/gifs/intro.gif?raw=true" width="480px">](https://www.linkedin.com/in/ryan-cheong-807b90265/)
+[<img src="/gifs/intro.gif?raw=true" width="1000px">](https://www.linkedin.com/in/ryan-cheong-807b90265/)
 
 ## <p align="center">(Obligatory) Hello, World! <img src="/gifs/wave.gif?raw=true" width="30px"> </p>
 ### Thanks for surfin' over! 🌊 <br>
