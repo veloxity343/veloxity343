@@ -1,6 +1,6 @@
 [<img src="/gifs/intro.gif?raw=true" width="480px">](https://www.linkedin.com/in/ryan-cheong-807b90265/)
 
-## <p align="center">(Obligatory) Hello, World! <img src="https://i.imgur.com/NKfNftS.gif" width="30"> </p>
+## <p align="center">(Obligatory) Hello, World! <img src="/gifs/wave.gif?raw=true" width="30px"> </p>
 ### Thanks for surfin' over! 🌊 <br>
 I'm Ryan, a self-proclaimed coding wizard 🧙‍♂️✨ on an important quest to transform coffee ☕ and late nights 🌒 into code!<br>
 What you see here is the place where I open-source some cool stuff while trying my utmost not to break anything important.<br>
