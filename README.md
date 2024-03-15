@@ -32,5 +32,5 @@ about_Me = {
 <p align="center">Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉</p>
 <hr>
 
-<th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="527px"></a></th>
-<th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="475px"></a></th>
+<th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a></th>
+<th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></a></th>
