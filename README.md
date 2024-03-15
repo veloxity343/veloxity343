@@ -1,4 +1,4 @@
-[<img src="/gifs/intro.gif?raw=true" width="1000px">](https://www.linkedin.com/in/ryan-cheong-807b90265/)
+<p dir="auto"><a href="https://www.linkedin.com/in/ryan-cheong-807b90265/" rel="nofollow"><img src="/gifs/intro.gif?raw=true" alt="Banner gif of xenia coral, the text &quot;Ryan Cheong&quot; in the center, hyperlinked to LinkedIn URL" width="1000"></a></p>
 
 ## <p align="center">(Obligatory) Hello, World! <img src="/gifs/wave.gif?raw=true" width="30px"> </p>
 ### Thanks for surfin' over! 🌊 <br>
@@ -29,13 +29,11 @@ about_Me = {
 - When I'm not tangled in code, I'm probably lost in a good book 📚 ...or just lost, really<br>
 - Looking for fellow adventurers to tackle the quest of creating the ultimate "404 Not Found" page. Spoiler: It'll be legendary! 🏰<br>
 <hr>
-<p align="center">Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉</p>
-<hr>
 <table>
 <thead>
 <tr>
 <th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;"></a></th>
-<th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="max-width: 150%;"></a></th>
+<th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="400"></a></th>
 </tr>
 </thead>
 </table>
@@ -44,3 +42,5 @@ about_Me = {
 <img alt="veloxity343's followers" src="https://img.shields.io/github/followers/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/followers/veloxity343?color=blue" style="max-width: 100%;">
 <img alt="veloxity343's stars" src="https://img.shields.io/github/stars/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/stars/veloxity343?color=blue" style="max-width: 100%;">
 </p>
+<hr>
+<p align="center">Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉</p>
