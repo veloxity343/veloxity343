@@ -31,6 +31,16 @@ about_Me = {
 <hr>
 <p align="center">Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉</p>
 <hr>
-
+<table>
+<thead>
+<tr>
 <th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;"></a></th>
 <th align="center"><a href="https://github.com/veloxity343?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+</table>
+<p align="center" dir="auto">
+<img src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" style="max-width: 100%;">
+<img src="https://img.shields.io/github/followers/veloxity343?color=blue" style="max-width: 100%;">
+<img src="https://img.shields.io/github/stars/veloxity343?color=blue" style="max-width: 100%;">
+</p>
