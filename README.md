@@ -40,7 +40,7 @@ about_Me = {
 </thead>
 </table>
 <p align="center" dir="auto">
-<img src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" style="max-width: 100%;">
-<img src="https://img.shields.io/github/followers/veloxity343?color=blue" style="max-width: 100%;">
-<img src="https://img.shields.io/github/stars/veloxity343?color=blue" style="max-width: 100%;">
+<img alt="veloxity343's visitors" src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" data-canonical-src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" style="max-width: 100%;">
+<img alt="veloxity343's followers" src="https://img.shields.io/github/followers/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/followers/veloxity343?color=blue" style="max-width: 100%;">
+<img alt="veloxity343's stars" src="https://img.shields.io/github/stars/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/stars/veloxity343?color=blue" style="max-width: 100%;">
 </p>
