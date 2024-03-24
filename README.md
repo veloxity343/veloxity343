@@ -3,7 +3,7 @@
 		<img src="/img/intro.gif?raw=true" alt="Banner gif of xenia coral, the text &quot;Ryan Cheong&quot; in the center, hyperlinked to LinkedIn URL" width="1000">
 	</a>
 </p>
-![Snake animation](https://github.com/veloxity343/veloxity343/blob/output/github-contribution-grid-snake.svg)
+
 ## <p align="center">(Obligatory) Hello, World! <img src="/img/wave.gif?raw=true" width="30px"></p>
 ### Thanks for surfin' over! 🌊<br>
 I'm Ryan, a self-proclaimed coding wizard 🧙‍♂️✨ on an important quest to transform coffee ☕ and late nights 🌒 into code!<br>
@@ -61,3 +61,5 @@ about_Me = {
 <a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
 	<img align="left" alt="“Ryan’s Discord" width="50px" src="/img/discord.png?raw=true" style="max-width: 100%;">
 </a>
+
+![Snake animation](https://github.com/veloxity343/veloxity343/blob/output/github-contribution-grid-snake.svg)
