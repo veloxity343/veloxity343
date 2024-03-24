@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/veloxity343/veloxity343/blob/output/github-contribution-grid-snake.svg)
+
 <p dir="auto">
 	<a href="https://www.linkedin.com/in/ryan-cheong-807b90265/" rel="nofollow">
 		<img src="/img/intro.gif?raw=true" alt="Banner gif of xenia coral, the text &quot;Ryan Cheong&quot; in the center, hyperlinked to LinkedIn URL" width="1000">
