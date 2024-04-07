@@ -5,7 +5,7 @@
 </p>
 
 ## <p align="center">(Obligatory) Hello, World! <img src="/img/wave.gif?raw=true" width="30px"></p>
-### Thanks for surfin' over! 🌊<br>
+### Thanks for teleportin' over!<br>
 I'm Ryan, a self-proclaimed coding wizard 🧙‍♂️✨ on an important quest to transform coffee ☕ and late nights 🌒 into code!<br>
 What you see here is the place where I open-source some cool stuff while trying my utmost not to break anything important.<br>
 <br>
