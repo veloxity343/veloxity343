@@ -62,4 +62,8 @@ about_Me = {
 	<img align="left" alt="“Ryan’s Discord" width="50px" src="/img/discord.png?raw=true" style="max-width: 100%;">
 </a>
 
-![Snake animation](https://github.com/veloxity343/veloxity343/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veloxity343/veloxity343/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veloxity343/veloxity343/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veloxity343/veloxity343/output/github-contribution-grid-snake.svg">
+</picture>
