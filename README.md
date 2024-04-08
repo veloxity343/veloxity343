@@ -71,7 +71,7 @@ about_Me = {
 </p>
 <hr>
 <p align="center">
-	Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉
+	Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
 </p>
 
 <picture>
