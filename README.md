@@ -29,7 +29,7 @@ about_Me = {
 - Enrolled in the Hogwarts-equivalent of coding: <a href="https://42kl.edu.my/"><img src="/img/42.jpg?raw=true" alt="42 School"></a> , where the spells are <code>git commit -m</code> and <code>sudo pour me another glass!</code> 🥂<br>
 - Trying to decide if I'm in a "productive coding flow" or just procrastinating 🤔<br>
 
-### 🔮 Verily, thou shalt find me conjuring gaming magic within these realms!<br>
+### 🔮 I conjure magic within these realms!<br>
 <a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
 	<img align="center" alt="“Ryan’s Discord" height="30" src="/icons/discord.png?raw=true"></a>
 <a href="https://steamcommunity.com/id/electrochemistry/" rel="nofollow">
