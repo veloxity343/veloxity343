@@ -24,7 +24,7 @@ about_Me = {
 </pre>
 
 ### The Adventurer's Guild 📜<br>
-- At this very moment? I'm probably saving the world, one bug fix at a time 🐛 and trying to convince my computer that "semicolon" is not a foreign language symbol<br>
+- At this very moment I'm probably saving the world, one bug fix at a time 🐛 and trying to convince my computer that "semicolon" is not a foreign language symbol<br>
 - Really, I'm on a lifelong quest of self-learning, kind of like a certain hobbit searching for the perfect code ring 💍<br>
 - Enrolled in the Hogwarts-equivalent of coding: <a href="https://42kl.edu.my/"><img src="/img/42.jpg?raw=true" alt="42 School"></a> , where the spells are <code>git commit -m</code> and <code>sudo pour me another glass!</code> 🥂<br>
 - Trying to decide if I'm in a "productive coding flow" or just procrastinating 🤔<br>
