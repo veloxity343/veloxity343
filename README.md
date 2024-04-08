@@ -45,7 +45,7 @@ about_Me = {
 
 #### 🎶 Current vibe:
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=12165685424&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12165685424&cover_image=true&theme=novatorem&show_offline=false&background_color=011646&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="500"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12165685424&cover_image=true&theme=novatorem&show_offline=false&background_color=011646&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="400"/>
 </a>
 <hr>
 <table>
