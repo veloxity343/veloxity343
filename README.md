@@ -29,6 +29,10 @@ about_Me = {
 - Enrolled in the Hogwarts-equivalent of coding: <a href="https://42kl.edu.my/"><img src="/img/42.jpg?raw=true" alt="42 School"></a> , where the spells are <code>git commit -m</code> and <code>sudo pour me another glass!</code> 🥂<br>
 - Trying to decide if I'm in a "productive coding flow" or just procrastinating 🤔<br>
 
+### 🔮 Verily, thou shalt find me conjuring gaming magic within these realms!
+<a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
+	<img align="center" alt="“Ryan’s Discord" width="50px" src="/img/discord.png?raw=true"></a>
+
 ### 💬 Let's Quest Together<br>
 - When I'm not tangled in code, I'm probably lost in a good book 📚 ...or just lost, really<br>
 - Looking for fellow adventurers to tackle the quest of creating the ultimate "404 Not Found" page. Spoiler: It'll be legendary! 🏰<br>
@@ -58,9 +62,6 @@ about_Me = {
 <p align="center">
 	Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉
 </p>
-<a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
-	<img align="left" alt="“Ryan’s Discord" width="50px" src="/img/discord.png?raw=true" style="max-width: 100%;">
-</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veloxity343/veloxity343/output/github-contribution-grid-snake-dark.svg">
