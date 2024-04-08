@@ -29,9 +29,15 @@ about_Me = {
 - Enrolled in the Hogwarts-equivalent of coding: <a href="https://42kl.edu.my/"><img src="/img/42.jpg?raw=true" alt="42 School"></a> , where the spells are <code>git commit -m</code> and <code>sudo pour me another glass!</code> 🥂<br>
 - Trying to decide if I'm in a "productive coding flow" or just procrastinating 🤔<br>
 
-### 🔮 Verily, thou shalt find me conjuring gaming magic within these realms!
+### 🔮 Verily, thou shalt find me conjuring gaming magic within these realms!<br>
 <a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
-	<img align="center" alt="“Ryan’s Discord" width="50px" src="/img/discord.png?raw=true"></a>
+	<img align="center" alt="“Ryan’s Discord" width="50px" src="/icons/discord.png?raw=true"></a>
+<a href="https://steamcommunity.com/id/electrochemistry/" rel="nofollow">
+	<img align="center" alt="“Ryan’s Steam" width="50px" src="/icons/steam.png?raw=true"></a>
+<a href="" rel="nofollow">
+	<img align="center" alt="“Ryan’s PS" width="50px" src="/icons/ps.png?raw=true"></a>
+<a href="https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=ibT8kVMCcNbEvD1JNFFXBHGYaNg-9_qYzTWzmtddzDAPsfK6VSdH8r0VJsyiTcKt_o7VzbuSAE4O9NEdS6n4Kadi2uk1&wa=wsignin1.0&refresh=1" rel="nofollow">
+	<img align="center" alt="“Ryan’s Xbox" width="50px" src="/icons/xbox.png?raw=true"></a>
 
 ### 💬 Let's Quest Together<br>
 - When I'm not tangled in code, I'm probably lost in a good book 📚 ...or just lost, really<br>
