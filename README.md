@@ -42,11 +42,12 @@ about_Me = {
 	<img align="center" alt="“Ryan’s PS" height="30" src="/icons/ps.png?raw=true"></a>
 <a href="https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=ibT8kVMCcNbEvD1JNFFXBHGYaNg-9_qYzTWzmtddzDAPsfK6VSdH8r0VJsyiTcKt_o7VzbuSAE4O9NEdS6n4Kadi2uk1&wa=wsignin1.0&refresh=1" rel="nofollow">
 	<img align="center" alt="“Ryan’s Xbox" height="30" src="/icons/xbox.png?raw=true"></a>
-
+<!--
 #### 🎶 Current vibe:
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=12165685424&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=12165685424&cover_image=true&theme=novatorem&show_offline=false&background_color=011646&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="400"/>
 </a>
+//-->
 <hr>
 <table>
 	<thead>
