@@ -1,4 +1,4 @@
-<p dir="auto">
+<p align="center">
 	<a href="https://www.linkedin.com/in/ryan-cheong-807b90265/" rel="nofollow">
 		<img src="/img/gameboy.gif?raw=true" alt="Banner gif of gameboy, hyperlinked to LinkedIn URL" width="800">
 	</a>
