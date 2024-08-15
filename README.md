@@ -6,7 +6,7 @@
 
 ## <p align="center">(Obligatory) Hello, World! <img src="/img/wave.gif?raw=true" width="30px"></p>
 ### Thanks for teleportin' over!<br>
-I'm Ryan, a self-proclaimed coding wizard 🧙‍♂️✨ on an important quest to transform coffee ☕ and late nights 🌒 into code!<br>
+I'm Ryan, a self-proclaimed coding <i>wizard</i> 🧙‍♂️✨ on an important quest to transform coffee ☕ and late nights 🌒 into code!<br>
 What you see here is the place where I open-source some cool stuff while trying my utmost not to break anything important.<br>
 <br>
 Some stuff you might want to know:<br>
@@ -23,17 +23,10 @@ about_Me = {
 };
 </pre>
 
-### The Adventurer's Guild 📜<br>
-- At this very moment I'm probably saving the world, one bug fix at a time 🐛 and trying to convince my computer that "semicolon" is not a foreign language symbol<br>
-- Really, I'm on a lifelong quest of self-learning, kind of like a certain hobbit searching for the perfect code ring 💍<br>
-- Enrolled in the Hogwarts-equivalent of coding: <a href="https://42kl.edu.my/"><img src="/img/42.jpg?raw=true" alt="42 School"></a> , where the spells are <code>git commit -m</code> and <code>sudo pour me another glass!</code> 🥂<br>
-- Trying to decide if I'm in a "productive coding flow" or just procrastinating 🤔<br>
+I'm enrolled in the Hogwarts-equivalent of coding: <a href="https://42kl.edu.my/"><img src="/img/42.jpg?raw=true" alt="42 School"></a> , where I've <code>git commit</code> more than any actual relationship.<br>
+When I'm not tangled in code, I'm probably lost in a good book 📚 ...or just lost, really.<br>
 
-#### 💬 Let's quest together!<br>
-- When I'm not tangled in code, I'm probably lost in a good book 📚 ...or just lost, really<br>
-- Looking for fellow adventurers to tackle the quest of creating the ultimate "404 Not Found" page. Spoiler: It'll be legendary! 🏰<br>
-
-#### 🔮 I conjure magic within these realms:<br>
+#### 📜 I conjure magic within these realms:<br>
 <a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
 	<img align="center" alt="“Ryan’s Discord" height="30" src="/icons/discord.png?raw=true"></a>
 <a href="https://steamcommunity.com/id/electrochemistry/" rel="nofollow">
