@@ -59,13 +59,13 @@ about_Me = {
 
 | Project | language| Description |
 |----------|--|-------------|
-| [Transcendence](https://github.com/veloxity343/ft_transcendence) | Typescript |Full-stack multiplayer web Pong game. Built with microservices, WebSocket, secure auth, and 3D rendering with Babylon.js |
+| [Transcendence](https://github.com/veloxity343/ft_transcendence) | Typescript |Full-stack multiplayer web Pong game. Built with server-side API, WebSocket, secure auth, and AI opponent |
 | [Webserv](https://github.com/Mecha-Coder/42-webserv) | C++| Lightweight HTTP server built from scratch: socket programming, HTTP parsing, CGI support |
 | [Inception](https://github.com/veloxity343/inception) | Dockerfile, shell | Containerised environment setup with Docker Compose — NGINX, WordPress, and MariaDB |
 | Net practice || Interactive networking exercise — simulating IP addressing and routing logic |
 | [Cub3D](https://github.com/veloxity343/cub3D) |C| 3D raycasting engine (Wolfenstein-style) — rendering 3D environments using 2D projection |
 | [minishell](https://github.com/veloxity343/minishell) |C| A Unix-like shell: command parsing, built-ins, process management, redirections, signals |
-| [Philosopher](https://github.com/veloxity343/42_core/tree/main/philosophers) |C| Dining philosophers simulation — multithreading, synchronization, and deadlock prevention |
+| [Philosopher](https://github.com/veloxity343/42_core/tree/main/philosophers) |C| Dining philosophers simulation — multithreading, synchronisation, and deadlock prevention |
 | [so_long](https://github.com/veloxity343/42_core/tree/main/so_long) |C| 2D maze game built with MiniLibX — focuses on movement, collision, and map logic |
 | [push_swap](https://github.com/veloxity343/42_core/tree/main/push_swap) |C| Algorithm challenge — sorting a stack with the minimum number of operations |
 
