@@ -23,8 +23,51 @@ about_Me = {
 };
 </pre>
 
-I'm enrolled in the Hogwarts-equivalent of coding: <a href="https://42kl.edu.my/"><img src="/img/42.jpg?raw=true" alt="42 School"></a> , where I've <code>git commit</code> more than any actual relationship.<br>
-When I'm not tangled in code, I'm probably lost in a good book 📚 ...or just lost, really.<br>
+## Tech Stack
+
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![WSL2](https://img.shields.io/badge/WSL2-0078D6?logo=windows&logoColor=white)
+
+**Machine Learning & Data Science**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+
+**Cloud & Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+## Projects
+
+### Software developpement:
+
+| Project | language| Description |
+|----------|--|-------------|
+| [Transcendence](https://github.com/veloxity343/ft_transcendence) | Typescript |Full-stack multiplayer web Pong game. Built with microservices, WebSocket, secure auth, and 3D rendering with Babylon.js |
+| [Webserv](https://github.com/Mecha-Coder/42-webserv) | C++| Lightweight HTTP server built from scratch: socket programming, HTTP parsing, CGI support |
+| [Inception](https://github.com/veloxity343/inception) | Dockerfile, shell | Containerised environment setup with Docker Compose — NGINX, WordPress, and MariaDB |
+| Net practice || Interactive networking exercise — simulating IP addressing and routing logic |
+| [Cub3D](https://github.com/veloxity343/cub3D) |C| 3D raycasting engine (Wolfenstein-style) — rendering 3D environments using 2D projection |
+| [minishell](https://github.com/veloxity343/minishell) |C| A Unix-like shell: command parsing, built-ins, process management, redirections, signals |
+| [Philosopher](https://github.com/veloxity343/42_core/tree/main/philosophers) |C| Dining philosophers simulation — multithreading, synchronization, and deadlock prevention |
+| [so_long](https://github.com/veloxity343/42_core/tree/main/so_long) |C| 2D maze game built with MiniLibX — focuses on movement, collision, and map logic |
+| [push_swap](https://github.com/veloxity343/42_core/tree/main/push_swap) |C| Algorithm challenge — sorting a stack with the minimum number of operations |
 
 #### 📜 I conjure magic within these realms:<br>
 <a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
