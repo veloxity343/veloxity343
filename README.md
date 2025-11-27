@@ -67,7 +67,7 @@ about_Me = {
 | [so_long](https://github.com/veloxity343/42_core/tree/main/so_long) |C| 2D maze game built with MiniLibX — focuses on movement, collision, and map logic |
 | [push_swap](https://github.com/veloxity343/42_core/tree/main/push_swap) |C| Algorithm challenge — sorting a stack with the minimum number of operations |
 
-#### 📜 I conjure magic within these realms:<br>
+#### I conjure magic within these realms:<br>
 <a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
 	<img align="center" alt="“Ryan’s Discord" height="50" src="/icons/discord.png?raw=true"></a>
 <a href="https://steamcommunity.com/id/electrochemistry/" rel="nofollow">
