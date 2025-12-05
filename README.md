@@ -85,7 +85,8 @@ about_Me = {
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://docs.google.com/document/d/1InN39D0eNY0ylFobAw_NOImjgHe630fb/export?format=pdf
+" download>Download my resume</a>
 
 <!--
 #### 🎶 Current vibe:
