@@ -5,6 +5,12 @@
 </p>
 
 ## <p align="center">(Obligatory) Hello, World! <img src="/img/wave.gif?raw=true" width="30px"></p>
+<p align="center" dir="auto">
+	<img alt="veloxity343's visitors" src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" data-canonical-src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" style="max-width: 100%;">
+	<img alt="veloxity343's followers" src="https://img.shields.io/github/followers/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/followers/veloxity343?color=blue" style="max-width: 100%;">
+	<img alt="veloxity343's stars" src="https://img.shields.io/github/stars/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/stars/veloxity343?color=blue" style="max-width: 100%;">
+</p>
+
 ### Thanks for teleportin' over!<br>
 I'm Ryan, a self-proclaimed coding <i>wizard</i> 🧙‍♂️✨ on an important quest to transform coffee ☕ and late nights 🌒 into code!<br>
 What you see here is the place where I open-source some cool stuff while trying my utmost not to break anything important.<br>
@@ -81,7 +87,6 @@ about_Me = {
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=12165685424&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=12165685424&cover_image=true&theme=novatorem&show_offline=false&background_color=011646&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="400"/>
 </a>
-//-->
 <hr>
 <table>
 	<thead>
@@ -99,11 +104,7 @@ about_Me = {
 		</tr>
 	</thead>
 </table>
-<p align="center" dir="auto">
-	<img alt="veloxity343's visitors" src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" data-canonical-src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" style="max-width: 100%;">
-	<img alt="veloxity343's followers" src="https://img.shields.io/github/followers/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/followers/veloxity343?color=blue" style="max-width: 100%;">
-	<img alt="veloxity343's stars" src="https://img.shields.io/github/stars/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/stars/veloxity343?color=blue" style="max-width: 100%;">
-</p>
+//-->
 <hr>
 <p align="center">
 	Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
