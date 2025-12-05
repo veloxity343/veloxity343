@@ -63,25 +63,30 @@ about_Me = {
 
 | Project | language| Description |
 |----------|--|-------------|
-| [Transcendence](https://github.com/veloxity343/ft_transcendence) | Typescript |Full-stack multiplayer web Pong game. Built with server-side API, WebSocket, secure auth, and AI opponent |
-| [Webserv](https://github.com/Mecha-Coder/42-webserv) | C++| Lightweight HTTP server built from scratch: socket programming, HTTP parsing, CGI support |
-| [Inception](https://github.com/veloxity343/inception) | Dockerfile, shell | Containerised environment setup with Docker Compose — NGINX, WordPress, and MariaDB |
-| Net practice || Interactive networking exercise — simulating IP addressing and routing logic |
-| [Cub3D](https://github.com/veloxity343/cub3D) |C| 3D raycasting engine (Wolfenstein-style) — rendering 3D environments using 2D projection |
+| [transcendence](https://github.com/veloxity343/ft_transcendence) | Typescript |Full-stack multiplayer web Pong game. Built with server-side API, WebSocket, secure auth, and AI opponent |
+| [webserv](https://github.com/Mecha-Coder/42-webserv) | C++| Lightweight HTTP server built from scratch: socket programming, HTTP parsing, CGI support |
+| [inception](https://github.com/veloxity343/inception) | Dockerfile, shell | Containerised environment setup with Docker Compose — NGINX, WordPress, and MariaDB |
+| Net Practice || Interactive networking exercise — simulating IP addressing and routing logic |
+| [cub3D](https://github.com/veloxity343/cub3D) |C| 3D raycasting engine (Wolfenstein-style) — rendering 3D environments using 2D projection |
 | [minishell](https://github.com/veloxity343/minishell) |C| A Unix-like shell: command parsing, built-ins, process management, redirections, signals |
-| [Philosopher](https://github.com/veloxity343/42_core/tree/main/philosophers) |C| Dining philosophers simulation — multithreading, synchronisation, and deadlock prevention |
+| [philosopher](https://github.com/veloxity343/42_core/tree/main/philosophers) |C| Dining philosophers simulation — multithreading, synchronisation, and deadlock prevention |
 | [so_long](https://github.com/veloxity343/42_core/tree/main/so_long) |C| 2D maze game built with MiniLibX — focuses on movement, collision, and map logic |
 | [push_swap](https://github.com/veloxity343/42_core/tree/main/push_swap) |C| Algorithm challenge — sorting a stack with the minimum number of operations |
 
 ### I conjure magic within these realms:<br>
 <a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
-	<img align="center" alt="“Ryan’s Discord" height="50" src="/icons/discord.png?raw=true"></a>
+	<img align="center" alt="“Ryan’s Discord" height="40" src="/icons/discord.png?raw=true"></a>
 <a href="https://steamcommunity.com/id/electrochemistry/" rel="nofollow">
-	<img align="center" alt="“Ryan’s Steam" height="50" src="/icons/steam.png?raw=true"></a>
+	<img align="center" alt="“Ryan’s Steam" height="40" src="/icons/steam.png?raw=true"></a>
 <a href="" rel="nofollow">
-	<img align="center" alt="“Ryan’s PS" height="50" src="/icons/ps.png?raw=true"></a>
+	<img align="center" alt="“Ryan’s PS" height="40" src="/icons/ps.png?raw=true"></a>
 <a href="https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=ibT8kVMCcNbEvD1JNFFXBHGYaNg-9_qYzTWzmtddzDAPsfK6VSdH8r0VJsyiTcKt_o7VzbuSAE4O9NEdS6n4Kadi2uk1&wa=wsignin1.0&refresh=1" rel="nofollow">
-	<img align="center" alt="“Ryan’s Xbox" height="50" src="/icons/xbox.png?raw=true"></a>
+	<img align="center" alt="“Ryan’s Xbox" height="40" src="/icons/xbox.png?raw=true"></a>
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+
 <!--
 #### 🎶 Current vibe:
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=12165685424&redirect=true">
@@ -107,7 +112,7 @@ about_Me = {
 //-->
 <hr>
 <p align="center">
-	Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
+	Feel free to explore my repositories and don't hesitate to reach out!
 </p>
 
 <picture>
