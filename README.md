@@ -73,7 +73,7 @@ about_Me = {
 | [so_long](https://github.com/veloxity343/42_core/tree/main/so_long) |C| 2D maze game built with MiniLibX — focuses on movement, collision, and map logic |
 | [push_swap](https://github.com/veloxity343/42_core/tree/main/push_swap) |C| Algorithm challenge — sorting a stack with the minimum number of operations |
 
-### I conjure magic within these realms:<br>
+## I conjure magic within these realms:<br>
 <a href="https://discordapp.com/users/247156811109629954/" rel="nofollow">
 	<img align="center" alt="“Ryan’s Discord" height="40" src="/icons/discord.png?raw=true"></a>
 <a href="https://steamcommunity.com/id/electrochemistry/" rel="nofollow">
@@ -83,7 +83,7 @@ about_Me = {
 <a href="https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=ibT8kVMCcNbEvD1JNFFXBHGYaNg-9_qYzTWzmtddzDAPsfK6VSdH8r0VJsyiTcKt_o7VzbuSAE4O9NEdS6n4Kadi2uk1&wa=wsignin1.0&refresh=1" rel="nofollow">
 	<img align="center" alt="“Ryan’s Xbox" height="40" src="/icons/xbox.png?raw=true"></a>
 
-### Employer?
+## Employer?
 > [!IMPORTANT]  
 > <a href="https://docs.google.com/document/d/1InN39D0eNY0ylFobAw_NOImjgHe630fb/export?format=pdf
 " download>Download my resume</a>
