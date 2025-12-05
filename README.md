@@ -78,7 +78,9 @@ about_Me = {
 <a href="https://steamcommunity.com/id/electrochemistry/" rel="nofollow"><img align="center" alt="“Ryan’s Steam" height="40" src="/icons/steam.png?raw=true"></a>
 <a href="" rel="nofollow"><img align="center" alt="“Ryan’s PS" height="40" src="/icons/ps.png?raw=true"></a>
 <a href="https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=ibT8kVMCcNbEvD1JNFFXBHGYaNg-9_qYzTWzmtddzDAPsfK6VSdH8r0VJsyiTcKt_o7VzbuSAE4O9NEdS6n4Kadi2uk1&wa=wsignin1.0&refresh=1" rel="nofollow"><img align="center" alt="“Ryan’s Xbox" height="40" src="/icons/xbox.png?raw=true"></a>
+<!--
 <a href="https://www.instagram.com/ryanctl_/" rel="nofollow"><img align="center" alt="“Ryan’s Insta" height="40" src="/icons/insta.png?raw=true"></a>
+//-->
 
 ## Employer?
 > [!IMPORTANT]  
